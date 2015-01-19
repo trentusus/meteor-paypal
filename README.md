@@ -5,7 +5,7 @@ Meteor Package for easy Paypal payment processing.
 
 ### Usage
 ```console
-mrt add paypal
+mrt add trentusus:paypal
 ```
 
 #### Setup
@@ -76,7 +76,3 @@ Include `{{> paypalCreditCardForm }}` in a template. In the template's javascrip
     }
   });
 ```
-
-### Acknowledgements
-
-Special Thanks to Phillip Jacobs ([@phillyqueso](https://twitter.com/phillyqueso)) for his help with Fibers and Futures without which, this project would've failed.
