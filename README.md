@@ -5,7 +5,7 @@ Meteor Package for easy Paypal payment processing.
 
 ### Usage
 ```console
-mrt add trentusus:paypal
+meteor add trentusus:paypal
 ```
 
 #### Setup
