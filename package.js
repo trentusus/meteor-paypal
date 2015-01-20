@@ -1,5 +1,6 @@
 Package.describe({
   summary: 'A paypal package that helps make restful API calls to Paypal'
+  git: 'https://github.com/trentusus/meteor-paypal.git'
 });
 
 Npm.depends({'paypal-rest-sdk': '0.6.3'});
